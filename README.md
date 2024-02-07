@@ -24,11 +24,9 @@ The project is divided into several scripts for data preparation, analysis, and 
 
 Run each script from the command line:
 
-undefined
-
 Copy code
 ```bash
-python script_name.py
+'python script_name.py'
 ```
 Contributing 🤝
 ---------------
