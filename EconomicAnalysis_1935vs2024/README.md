@@ -11,8 +11,6 @@ The project is divided into several scripts for data preparation, analysis, and 
 
 Run each script from the command line:
 
-undefined
-
 Copy code
 
 `python script_name.py`
