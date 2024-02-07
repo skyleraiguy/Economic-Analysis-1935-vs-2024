@@ -8,8 +8,9 @@
 
 ### Installation  Clone this repository and install the required Python packages:  
 
-```bash git clone https://github.com/yourusername/EconomicAnalysis_1935vs2024.git 
-
+```bash
+git clone https://github.com/yourusername/EconomicAnalysis_1935vs2024.git 
+```
 cd EconomicAnalysis_1935vs2024 pip install -r requirements.txt`
 
 Usage 🛠
