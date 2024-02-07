@@ -27,11 +27,12 @@ Run each script from the command line:
 undefined
 
 Copy code
-
-`python script_name.py`
-
+```bash
+python script_name.py
+```
 Contributing 🤝
 ---------------
+[Skyleraiguy](https://github.com/skyleraiguy)
 
 Contributions are welcome! Please feel free to submit pull requests, suggest features, or report bugs.
 
