@@ -4,7 +4,11 @@
 
 ## Getting Started 🚀  To run this project, ensure you have Python and the necessary libraries installed.  
 
-### Prerequisites  - Python 3.x - Pandas - NumPy - Matplotlib - Seaborn - scikit-learn  ### Installation  Clone this repository and install the required Python packages:  ```bash git clone https://github.com/yourusername/EconomicAnalysis_1935vs2024.git cd EconomicAnalysis_1935vs2024 pip install -r requirements.txt`
+### Prerequisites  - Python 3.x - Pandas - NumPy - Matplotlib - Seaborn - scikit-learn  
+
+### Installation  Clone this repository and install the required Python packages:  
+
+```bash git clone https://github.com/yourusername/EconomicAnalysis_1935vs2024.git cd EconomicAnalysis_1935vs2024 pip install -r requirements.txt`
 
 Usage 🛠
 --------
