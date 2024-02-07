@@ -49,9 +49,3 @@ Acknowledgements 🙏
 *   [Matplotlib](https://matplotlib.org/)
 *   [Seaborn](https://seaborn.pydata.org/)
 *   [scikit-learn](https://scikit-learn.org/)
-
-less
-
-Copy code
-
-``Remember to replace `https://github.com/yourusername/EconomicAnalysis_1935vs2024.git` with the actual URL of your GitHub repository. This README provides a concise yet comprehensive overview of your project, including how to get started, how to use the project, and how to contribute.``
