@@ -26,7 +26,13 @@ Run each script from the command line:
 
 Copy code
 ```bash
-'python script_name.py'
+analyze_data.py
+```
+```bash
+data_preprocessing.py
+```
+```bash
+visualize_results.py
 ```
 Contributing 🤝
 ---------------
