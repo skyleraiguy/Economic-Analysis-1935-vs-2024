@@ -5,9 +5,9 @@ Usage 🛠
 
 The project is divided into several scripts for data preparation, analysis, and visualization:
 
-*   `data_preparation.py`: Prepares the data for analysis.
-*   `analysis.py`: Conducts the economic analysis comparing 1935 and 2024.
-*   `visualization.py`: Generates visualizations to illustrate the findings.
+* `data_preparation.py`: Prepares the data for analysis.
+* `analysis.py`: Conducts the economic analysis comparing 1935 and 2024.
+* `visualization.py`: Generates visualizations to illustrate the findings.
 
 Run each script from the command line:
 
@@ -30,10 +30,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Acknowledgements 🙏
 -------------------
 
-*   [Pandas](https://pandas.pydata.org/)
-*   [NumPy](https://numpy.org/)
-*   [Matplotlib](https://matplotlib.org/)
-*   [Seaborn](https://seaborn.pydata.org/)
-*   [scikit-learn](https://scikit-learn.org/)
-
-
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [scikit-learn](https://scikit-learn.org/)
