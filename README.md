@@ -15,7 +15,7 @@ git clone https://github.com/yourusername/EconomicAnalysis_1935vs2024.git
 cd Economic-Analysis-1935-vs-2024
 ```
 ```bash
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 Usage 🛠
